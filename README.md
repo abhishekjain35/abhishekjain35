@@ -1,13 +1,13 @@
 ### Hey 👋🏽, I'm [Abhishek!](https://abhishekdev.tech) 
 
-<a href="https://twitter.com/Abhishek_Jain35">
-  <img align="left" alt="Abhishek Jain | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
 <a href="https://www.linkedin.com/in/abhishekjain35/">
   <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/mehnati_engineer/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://twitter.com/Abhishek_Jain35">
+  <img align="left" alt="Abhishek Jain | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://dev.to/abhishekjain35">
+  <img align="left" alt="Abhishek's dev.to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/dev-dot-to.svg" />
 </a>
 <a href="https://leetcode.com/abhishekjai35/">
   <img align="left" alt="Abhishek's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
