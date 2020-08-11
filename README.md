@@ -22,8 +22,7 @@ Hi, I'm Abhishek Jain, a Full Stack Developer 🚀 from India, Beside's programm
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool;
-- 🌱 I’m currently learning Docker and Firebase; 
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
+- 🌱 I’m currently learning Cloud computing (AWS and GCP) and Firebase;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I love to code at daytime
 - 📫 How to reach me: [@abhishekjain35!](https://www.linkedin.com/in/abhishekjain35/) ;
