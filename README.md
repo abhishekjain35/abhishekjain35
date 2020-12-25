@@ -12,6 +12,9 @@
 <a href="https://leetcode.com/abhishekjai35/">
   <img align="left" alt="Abhishek's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
+<a href="https://www.hackerrank.com/abhishekjai35?hr_r=1">
+  <img align="left" alt="Abhishek's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg" />
+</a>
 <br />
 <br />
 
