@@ -52,9 +52,9 @@ Hi, I'm Abhishek Jain, a Full Stack Developer 🚀 from India, Beside's programm
 ⭐️ From [abhishekjain35](https://github.com/abhishekjain35)
 
 <a href="https://github.com/abhishekjain35/portfolio-pwa">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishekjain35&repo=portfolio-pwa" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishekjain35&repo=portfolio-pwa&theme=radical" />
 </a>
 
 <a href="https://github.com/abhishekjain35/Mini-house-client">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishekjain35&repo=Mini-house-client" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishekjain35&repo=Mini-house-client&theme=radical" />
 </a>
