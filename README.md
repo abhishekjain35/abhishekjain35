@@ -18,16 +18,16 @@
 <br />
 <br />
 
-Hi, I'm Abhishek Jain, a Full Stack Developer 🚀 from India, Beside's programming, I enjoy eating food and traveling.
+Hi, I'm Abhishek Jain, a Full Stack Developer 🚀 from India, Beside's programming, I am a Technical Content Writer and love to explore the tech.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool;
-- 🌱 I’m currently learning Cloud computing (AWS and GCP) and Firebase;
+- 🌱 I’m currently practicing Data structures and algorithms;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I love to code at daytime
+- ⚡️ Fun-Fact: I love to code at daytime;
 - 📫 How to reach me: [@abhishekjain35!](https://www.linkedin.com/in/abhishekjain35/) ;
 
 **Languages and Tools:**  
@@ -40,8 +40,14 @@ Hi, I'm Abhishek Jain, a Full Stack Developer 🚀 from India, Beside's programm
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
+<br>
 
-![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=abhishekjain35&show_icons=true&hide_border=true)
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abhishekjain35&theme=nightowl&show_icons=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekjain35&theme=nightowl&show_icons=true" />
+</div>
+
+<br>
 
 ⭐️ From [abhishekjain35](https://github.com/abhishekjain35)
 
@@ -49,6 +55,6 @@ Hi, I'm Abhishek Jain, a Full Stack Developer 🚀 from India, Beside's programm
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishekjain35&repo=portfolio-pwa" />
 </a>
 
-<a href="https://github.com/abhishekjain35/weather-app">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishekjain35&repo=weather-app" />
+<a href="https://github.com/abhishekjain35/Mini-house-client">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishekjain35&repo=Mini-house-client" />
 </a>
